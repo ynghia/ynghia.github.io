@@ -4688,14 +4688,4 @@ input, select, textarea {
 
 	}
 
-	.social-icon {
-    width: 18px;
-    height: 18px;
-    display: block;
-	}
-
-	.icon-link {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-	}
+	
